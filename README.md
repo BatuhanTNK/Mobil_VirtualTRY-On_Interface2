@@ -1,1 +1,3 @@
-> Repo güncellendi: 28.09.2025
+
+> Feature: ilk-guncelleme dalından test
+
