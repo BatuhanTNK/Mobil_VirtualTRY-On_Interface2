@@ -7,7 +7,6 @@ export default function TabLayout() {
     <Tabs
       screenOptions={{
         headerShown: false,
-        // önemli: sahnenin arka planı transparan olsun (kökteki mavi görünsün)
         sceneStyle: { backgroundColor: 'transparent' },
         tabBarStyle: {
           backgroundColor: '#4F7CFF',
