@@ -1,3 +1,3 @@
 
-> Feature: ilk-guncelleme dalından test
+> Feature: ikinci-guncelleme dalından test
 
